@@ -1,0 +1,32 @@
+_repo: We-Women-and-Our-Authors_67577
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ramsden, Hermione
+    gutenberg_agent_id: '54341'
+    url: http://www.gutenberg.org/2009/agents/54341
+creator:
+  author:
+    agent_name: Hansson, Laura Marholm
+    gutenberg_agent_id: '54340'
+    url: http://www.gutenberg.org/2009/agents/54340
+description: ''
+gutenberg_issued: '2022-03-06'
+identifiers:
+  gutenberg: '67577'
+language: en
+pgterms:marc904: https://archive.org/details/wewomenourauthor00hansuoft
+pgterms:marc905: 20200929055032hansson
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+production_note: Martin Pettit and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :John Lane The Bodley Head,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: We Women and Our Authors
+url: http://www.gutenberg.org/ebooks/67577
