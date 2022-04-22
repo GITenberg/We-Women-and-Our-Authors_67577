@@ -5,12 +5,17 @@ contributor:
     agent_name: Ramsden, Hermione
     gutenberg_agent_id: '54341'
     url: http://www.gutenberg.org/2009/agents/54341
+covers:
+- cover_type: archival
+  image_path: 67577-h/images/cover.jpg
 creator:
   author:
     agent_name: Hansson, Laura Marholm
     gutenberg_agent_id: '54340'
     url: http://www.gutenberg.org/2009/agents/54340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67577#We-Women-and-Our-Authors
 gutenberg_issued: '2022-03-06'
 identifiers:
   gutenberg: '67577'
